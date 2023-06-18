@@ -1,5 +1,6 @@
 # JPG-to-PNG-Image-Converter
 JPG to PNG Image Converter
+
 Welcome to my awesome project! If you find this project useful or simply want to show your support, you can consider buying me a coffee. Your contribution will help me continue developing and maintaining this project.
 
 <a href="https://www.buymeacoffee.com/himelraju"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=your_username&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
