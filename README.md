@@ -1,5 +1,4 @@
 # JPG-to-PNG-Image-Converter
-JPG to PNG Image Converter
 
 Welcome to my awesome project! If you find this project useful or simply want to show your support, you can consider buying me a coffee. Your contribution will help me continue developing and maintaining this project.
 
@@ -7,27 +6,19 @@ Welcome to my awesome project! If you find this project useful or simply want to
 
 ## About the Project
 
-Describe your project here, including its purpose, features, and any relevant information.
+This is a simple JPG to PNG Image Converter application.
 
 ## Installation
 
-Provide instructions on how to install and set up your project.
-
-## Usage
-
-Explain how users can use your project, including code examples or screenshots if applicable.
-
-## Contributing
-
-If you want to contribute to this project, feel free to open a pull request. Make sure to follow the contribution guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
+simply download the code and past your code editor or upload hosting and enjoy it.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+open source anyone use this code
 
 ## Support
 
-If you encounter any issues or have questions, you can reach out to me via [email@example.com](mailto:email@example.com).
+If you encounter any issues or have questions, you can reach out to me via [himelrajuofficial@gmail.com](mailto:himelrajuofficial@gmail.com).
 
 If you appreciate my work and would like to support me further, you can buy me a coffee through the link below. Your support is greatly appreciated!
 
